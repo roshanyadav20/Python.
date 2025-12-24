@@ -1,2 +1,2 @@
 # Python.
-Complete Python Series | Beginner to Advanced 🚀
+Complete Data Analyst Series | Beginner to Advanced 🚀
